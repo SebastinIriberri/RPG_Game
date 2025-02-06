@@ -1120,8 +1120,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 342546088}
-        m_TargetAssemblyTypeName: AtributtonButton, Assembly-CSharp
-        m_MethodName: AgregarAtriabuto
+        m_TargetAssemblyTypeName: AtributoButton, Assembly-CSharp
+        m_MethodName: AgregarAtributo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1178,7 +1178,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 342546083}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a894cc4f57c19d941bba4bc8a461cca1, type: 3}
+  m_Script: {fileID: 11500000, guid: 697746044fcd4d64db56474d71c1e19a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   tipo: 0
@@ -1267,8 +1267,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 346378774}
-        m_TargetAssemblyTypeName: AtributtonButton, Assembly-CSharp
-        m_MethodName: AgregarAtriabuto
+        m_TargetAssemblyTypeName: AtributoButton, Assembly-CSharp
+        m_MethodName: AgregarAtributo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1325,7 +1325,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 346378769}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a894cc4f57c19d941bba4bc8a461cca1, type: 3}
+  m_Script: {fileID: 11500000, guid: 697746044fcd4d64db56474d71c1e19a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   tipo: 2
@@ -2912,8 +2912,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 798059956}
-        m_TargetAssemblyTypeName: AtributtonButton, Assembly-CSharp
-        m_MethodName: AgregarAtriabuto
+        m_TargetAssemblyTypeName: AtributoButton, Assembly-CSharp
+        m_MethodName: AgregarAtributo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2970,7 +2970,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 798059951}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a894cc4f57c19d941bba4bc8a461cca1, type: 3}
+  m_Script: {fileID: 11500000, guid: 697746044fcd4d64db56474d71c1e19a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   tipo: 1
